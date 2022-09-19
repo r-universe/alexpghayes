@@ -1,9 +1,5 @@
 [
   {
-    "package": "distributions3",
-    "oncran": true
-  },
-  {
     "package": "modeltests",
     "oncran": true
   }
