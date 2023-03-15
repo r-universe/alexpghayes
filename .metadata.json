@@ -1,10 +1,10 @@
 [
   {
-    "package": "distributions3",
+    "package": "modeltests",
     "oncran": true
   },
   {
-    "package": "modeltests",
+    "package": "distributions3",
     "oncran": true
   }
 ]
